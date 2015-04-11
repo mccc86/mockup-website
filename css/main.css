@@ -1,8 +1,6 @@
-body{
-	
+body {
 	font-family:Kalimati, Verdana, sans-serif !important;
 }
-
 h1 {
 	color: #666 !important;
 	font-size: 47px !important;
@@ -10,7 +8,6 @@ h1 {
 	margin-top: 46px !important;
 	text-align: center;
 }
-
 .features-box h2 {
 	color: #f07c17 !important;
 	margin-top: 30px;
@@ -18,44 +15,34 @@ h1 {
 	font-weight: bold;
 	font-size: 24px;
 }
-
-.features-box ul{
+.features-box ul {
 	margin-top: 32px;
 	line-height: 31px;
 }
-
-.features-box{
-	border: 1px #cccccc solid;
+.features-box {
+	border: 1px #ccc solid;
 	margin-top: 29px;
 	margin-left: 6px;
 	margin-right: -6px;
 	padding-bottom: 32px;
-
-	
 }
-
-.bottom-space{
-	
+.bottom-space {
 	width:100%;
 	margin-top: 22px;
 	margin-left:9px;
 }
-
-ul li{
-	
+ul li {
 	margin-left: 30px;
 	font-size: 16px;
 }
-
-p{
+p {
 	color: #666 !important;
 	line-height: 2.3em;
 	font-size: 14px;
 	letter-spacing: 1px;
 	padding-left: 8px;
 }
-
-.second-heading{
+.second-heading {
 	color: #f07c17 !important;
 	margin-left: 9px;
 	font-weight: bold;
